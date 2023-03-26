@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.02468180.css",
+    "main.js": "./static/js/main.4bc2779d.js",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/overview.png": "./static/media/overview.76479223072b04d16484.png",
+    "static/media/bootstrap-icons.woff2": "./static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/filter.png": "./static/media/filter.156a09fe085fe353d7eb.png",
+    "static/media/export.png": "./static/media/export.f6ebd1a00142d4f02093.png",
+    "static/media/buttons.png": "./static/media/buttons.c6a270940e0f6058b7c9.png",
+    "static/media/attr-filter.png": "./static/media/attr-filter.99fa454a39d6271f5c3e.png",
+    "static/media/kofi-sm.webp": "./static/media/kofi-sm.f70c4efb04a3631ee9a5.webp",
+    "static/media/kofi-lg.webp": "./static/media/kofi-lg.6ef840e216ca2968c0cd.webp",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.02468180.css",
+    "static/js/main.4bc2779d.js"
+  ]
+}
